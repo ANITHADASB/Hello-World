@@ -1,8 +1,4 @@
 # Hello-World
-Helloworld program
+Helloworld programming.
 
-
-
-Hello,
-
-I am anitha Das B. I like coding.
+I like coding. I work as junior software engineer.
